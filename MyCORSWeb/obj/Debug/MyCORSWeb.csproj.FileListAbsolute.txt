@@ -1,0 +1,12 @@
+D:\学习\跨域\MyCORSWeb\MyCORSWeb\bin\MyCORSWeb.dll.config
+D:\学习\跨域\MyCORSWeb\MyCORSWeb\bin\MyCORSWeb.dll
+D:\学习\跨域\MyCORSWeb\MyCORSWeb\bin\MyCORSWeb.pdb
+D:\学习\跨域\MyCORSWeb\MyCORSWeb\obj\Debug\MyCORSWeb.csprojResolveAssemblyReference.cache
+D:\学习\跨域\MyCORSWeb\MyCORSWeb\obj\Debug\MyCORSWeb.dll
+D:\学习\跨域\MyCORSWeb\MyCORSWeb\obj\Debug\MyCORSWeb.pdb
+E:\学习记录\跨域\MyCORSWeb\MyCORSWeb\bin\MyCORSWeb.dll.config
+E:\学习记录\跨域\MyCORSWeb\MyCORSWeb\bin\MyCORSWeb.dll
+E:\学习记录\跨域\MyCORSWeb\MyCORSWeb\bin\MyCORSWeb.pdb
+E:\学习记录\跨域\MyCORSWeb\MyCORSWeb\obj\Debug\MyCORSWeb.csprojResolveAssemblyReference.cache
+E:\学习记录\跨域\MyCORSWeb\MyCORSWeb\obj\Debug\MyCORSWeb.dll
+E:\学习记录\跨域\MyCORSWeb\MyCORSWeb\obj\Debug\MyCORSWeb.pdb
